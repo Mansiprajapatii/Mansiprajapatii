@@ -1,3 +1,6 @@
+
+![Logo](https://github.com/Mansiprajapatii/Mansiprajapatii/blob/main/bb.jpg)
+
 <h1 align="center">Hi 👋, I'm Mansi Prajapati</h1>
 <h3 align="center">A passionate FullStack Developer and UI / UX Designer from India</h3>
 
