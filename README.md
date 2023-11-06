@@ -21,7 +21,7 @@
 
 
 <br>
-<be>
+
 <h3 align="left"> Achievements:</h3>
 
 [![An image of @mansiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiprajapati)](https://holopin.io/@mansiprajapati)
@@ -35,14 +35,7 @@
 
 <br>
 <br>
-
 <br>
-<be>
-
-<br>
-<br>
-
-
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=mansiprajapatii&" alt="mansiprajapatii" /></p>
 
