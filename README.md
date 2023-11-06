@@ -29,15 +29,15 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiprajapatii&show_icons=true&locale=en&layout=compact" alt="mansiprajapatii" /></p>
-<br>
-<br>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mansiprajapatii&show_icons=true&locale=en" alt="mansiprajapatii" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mansiprajapatii&show_icons=true&locale=en" alt="mansiprajapatii" /></p>
+
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansiprajapatii&" alt="mansiprajapatii" /></p>
-<br>
-<br>
+
 
 
 
