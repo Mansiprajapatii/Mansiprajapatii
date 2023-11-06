@@ -11,10 +11,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiprajapatii&label=Profile%20views&color=0e75b6&style=flat" alt="mansiprajapatii" /> </p>
+<!---  - 🌱 I’m currently learning **DSA || MERN Stack**
 
-- 🌱 I’m currently learning **DSA || MERN Stack**
-
-- 💬 Ask me about **Web Dev || UI / UX Designing**
+- 💬 Ask me about **Web Dev || UI / UX Designing** -->
 
 <br>
 <br>
