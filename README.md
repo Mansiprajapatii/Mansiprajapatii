@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiprajapatii&show_icons=true&locale=en" alt="mansiprajapatii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansiprajapatii&" alt="mansiprajapatii" /></p>
+
+
+[![An image of @mansiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiprajapati)](https://holopin.io/@mansiprajapati)
