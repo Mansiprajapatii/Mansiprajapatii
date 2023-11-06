@@ -29,8 +29,7 @@
 
 <br>
 <br>
-<br>
-<br>
+
 [![An image of @mansiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansiprajapati)](https://holopin.io/@mansiprajapati)
 <br>
 <br>
