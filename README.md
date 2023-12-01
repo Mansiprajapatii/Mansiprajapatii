@@ -2,7 +2,7 @@
 ![Logo](https://github.com/Mansiprajapatii/Mansiprajapatii/blob/main/bb.jpg)
 
 <h1 align="center">Hi 👋, I'm Mansi Prajapati</h1>
-<h3 align="center">A passionate FullStack Developer and UI / UX Designer from India</h3>
+<h3 align="center">Computer Science Student form India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/09e4930a59167dcea9c9f2d64a1a73a31e89cdde6f1de97ed44d6a726a4ea388/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565" >
 
@@ -11,9 +11,9 @@
 - 🌱 I’m currently learning **DSA || MERN Stack**
 
 - 💬 Ask me about **Web Dev || UI / UX Designing**
-
+ 
  - 📄 Know about my experiences [https://drive.google.com/file/d/1uBCuP31oCcwMykDCJrf8AHwqdL07sM1v/view?usp=sharing](https://drive.google.com/file/d/1uBCuP31oCcwMykDCJrf8AHwqdL07sM1v/view?usp=sharing) 
-
+   
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
